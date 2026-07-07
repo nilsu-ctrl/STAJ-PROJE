@@ -1,0 +1,51 @@
+
+export const items = [
+{
+ id : 1,   
+ category: "Pantolon",
+ title:"Kot pantolon",
+ imgsrc:"../src/images/kot.jpg",
+ description: 'Açık mavi kot pantolon',
+ price:'800',
+},
+{
+id : 2,
+ category: "Tişört/Bluz",
+ title:"Kısa kollu tişört",
+ imgsrc:'../src/images/beyaztişört.png  ',
+ description: 'Kısa kollu beyaz tişört',
+ price:'350',
+},
+{
+id : 3,
+ category: "Ayakkabı",
+ title:"Nike ayakkabı",
+ imgsrc:'../src/images/nikeayak.jpg',
+ description:'Beyaz Nike airforce',
+ price:'4000',
+},
+{
+id : 4,
+ category: "Elbise",
+ title:"Askılı Elbise",
+ imgsrc:'../src/images/kırmızıelbise.jpg',
+ description: 'Kırmızı askılı elbise',
+ price:'1600',
+},
+{
+id : 5,
+ category: "Tişört/Bluz",
+ title:"Bluz",
+ imgsrc:"../src/images/bluz.jpg",
+ description: 'Kahverengi şık saten bluz',
+ price:'800',
+},
+{
+id : 6,
+ category: "Elbise",
+ title:"Uzun elbise",
+ imgsrc:"../src/images/siyahelbise.jpg",
+ description: 'Siyah drapeli uzun elbise',
+ price:'2400',
+},
+]
